@@ -1,5 +1,5 @@
 # t1
-Simple for in C++ </br>
+Simple loop in C++ </br>
 Output</br>
 12345</br>
 2345</br>
