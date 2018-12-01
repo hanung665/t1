@@ -1,8 +1,8 @@
 # t1
-Simple for in C++
-Output
-12345
-2345
-345
-45
-5
+Simple for in C++ </br>
+Output</br>
+12345</br>
+2345</br>
+345</br>
+45</br>
+5</br>
